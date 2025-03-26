@@ -83,7 +83,7 @@ Here's a detailed breakdown of the entire project workflow,
 - **Classification Report**:
   - Precision, Recall, F1-score for both classes
 - **ROC Curve**:
-  - Demonstrated excellent discrimination (AUC ~0.96)
+  - Demonstrated excellent discrimination (AUC ~0.99)
 
 ---
 
